@@ -1,3 +1,10 @@
-Fun Google Colab Notebooks for learning and building fun things
+#Fun Google Colab Notebooks for learning and building fun things
 
-Simple 2-layer Neural Notebook that Classifies Article of CLothing from 28x28 pixel images - Simple_FashionClassification_NN.ipynb
+## Deep Learning
+**Simple 2-layer Neural Notebook that Classifies Article of CLothing from 28x28 pixel images** - *Simple_FashionClassification_NN.ipynb*
+
+## Classic Machine Learning
+**Simple Decision Tree to Regress Melbourne Housing Prices with leaf nodes optimization** - *Regression_Decision_Tree_Melbourne_Housing_Prices.ipynb*
+
+## Extras
+*Testing How to use OpenAI API* - *Trying_OpenAIAPI.ipynb*
